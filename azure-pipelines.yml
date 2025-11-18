@@ -19,5 +19,10 @@ steps:
   displayName: 'Run a multi-line script'
 - task: QualysTASIntegration@0
   inputs:
-    webAppIds: '347854198'
-    TasService: 'US1-qb59'
+    webAppIds: '1827461948'
+    severity1: true
+    severity2: true
+    severity3: true
+    severity4: true
+    severity5: true
+    TasService: 'USPOD1-qb59'
