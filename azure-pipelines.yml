@@ -19,7 +19,7 @@ steps:
   displayName: 'Run a multi-line script'
 - task: QualysTASIntegration@0
   inputs:
-    webAppIds: '1827461948'
+    webAppIds: '1512384519'
     severity1: true
     severity2: true
     severity3: true
